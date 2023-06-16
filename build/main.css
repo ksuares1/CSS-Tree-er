@@ -12,9 +12,13 @@
   color: white;
 }
 
-nav {
-  display: none;
+.oak-tree-img{
+  border:5px solid red;
 }
+
+/* nav {
+  display: none;
+} */
 
 
 /* img {
